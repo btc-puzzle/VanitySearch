@@ -1,5 +1,3 @@
-# 这是用于池子扫描比特币谜题私钥的VanitySearch程序。
-
 # VanitySearch-Bitrack with FixedPaul with Optimization for BTC Puzzle
 
 # Feature
